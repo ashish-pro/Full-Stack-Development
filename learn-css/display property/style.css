@@ -40,6 +40,6 @@ li {
 }
 
 li:hover {
-    color: violet;
+    color: goldenrod;
     cursor: pointer;
 }
